@@ -1,0 +1,11 @@
+/Users/adeolaabiola/Documents/newsletter/target/debug/deps/getrandom-5bcf59f5fb305c3e.rmeta: /Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/lib.rs /Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error.rs /Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/util.rs /Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error_impls.rs /Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/util_libc.rs /Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/use_file.rs /Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/macos.rs
+
+/Users/adeolaabiola/Documents/newsletter/target/debug/deps/getrandom-5bcf59f5fb305c3e.d: /Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/lib.rs /Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error.rs /Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/util.rs /Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error_impls.rs /Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/util_libc.rs /Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/use_file.rs /Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/macos.rs
+
+/Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/lib.rs:
+/Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error.rs:
+/Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/util.rs:
+/Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error_impls.rs:
+/Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/util_libc.rs:
+/Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/use_file.rs:
+/Users/adeolaabiola/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/macos.rs:
